@@ -1,6 +1,6 @@
 <h1 align="center">Pravar Chauhan</h1>
 <p align="center">
-  Python Engineer · AI & Cloud · FastAPI · Docker · Kubernetes
+  Python Engineer · AI & Cloud · FastAPI · Docker · Kubernetes· HCI enthusiast
   <br/>
   <a href="mailto:chauhanpravar7@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/pravar-chauhan-83845930a/">LinkedIn</a> •
