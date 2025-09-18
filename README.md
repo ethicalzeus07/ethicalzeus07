@@ -82,3 +82,8 @@ B.S. Computer Science, Arizona State University · Minor in Business · GPA 3.7
 <p>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=ethicalzeus07&label=Profile%20views"/>
 </p>
+
+---
+
+### Contribution Snake
+![snake](https://raw.githubusercontent.com/ethicalzeus07/ethicalzeus07/output/snake.svg)
