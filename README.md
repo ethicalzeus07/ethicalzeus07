@@ -1,22 +1,24 @@
-<h1 align="center">Pravar Chauhan</h1>
+<h1 align="center">Hi 👋, I'm Pravar Chauhan</h1>
 <p align="center">
-  Python Engineer · AI & Cloud · FastAPI · Docker · Kubernetes· HCI enthusiast
-  <br/>
-  <a href="mailto:chauhanpravar7@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/pravar-chauhan-83845930a/">LinkedIn</a> •
-  <a href="https://github.com/ethicalzeus07">GitHub</a> •
-  <a href="https://d3tx6hx7gzmh0g.cloudfront.net/">Portfolio</a>
+  <b>Python Engineer · AI & Cloud · FastAPI · Docker · Kubernetes · HCI Enthusiast</b>
+  <br/><br/>
+  <a href="mailto:chauhanpravar7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/pravar-chauhan-83845930a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/ethicalzeus07"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://d3tx6hx7gzmh0g.cloudfront.net/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
 
-### Snapshot
-- 40% faster WCAG audits via an AI-powered testing assistant.
-- Real-time voice assistant with ~1s on-device latency.
-- EKS Fargate deploys with ALB, CI, and cost control.
+### 🚀 Snapshot
+- ⚡ 40% faster WCAG audits via an AI-powered testing assistant  
+- 🎙️ Real-time voice assistant with ~1s on-device latency  
+- ☁️ EKS Fargate deploys with ALB, CI, and cost control  
 
-### Toolbox
-<p>
+---
+
+### 🛠️ Toolbox
+<p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
@@ -29,61 +31,44 @@
   <img alt="AWS CCP" src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?logo=amazonaws&logoColor=white"/>
 </p>
 
-### Projects
-<table>
-  <tr>
-    <td>
-      <b>Inspark A11y Assistant</b>  
-      Automates axe-core WCAG 2.2 AA scans and returns LLM remediation tips in &lt;2s.
-      <br/>
-      <a href="https://github.com/ethicalzeus07/inspark-a11y">Repo</a>
-      • Tech: FastAPI, axe-core, JS, JSON reports
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>Ballsy Voice Assistant</b>  
-      Real-time pipeline (Google STT → FastAPI → WebSockets) with ~1s latency; themed UI with Tailwind; containerized.
-      <br/>
-      <a href="https://github.com/ethicalzeus07/ballsy-voice-assistant">Repo</a>
-      • Tech: Python, WebSockets, SQLite, Docker
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>Data Dash on EKS</b>  
-      FastAPI + WebSocket metrics dashboard on EKS Fargate with ALB and CI.
-      <br/>
-      <a href="https://github.com/ethicalzeus07/datadash-eks">Repo</a>
-      • Tech: Docker, EKS, ALB, GitHub Actions
-    </td>
-  </tr>
-</table>
+---
 
-### Experience
-ASU Center for Education Through Exploration — Platform QA & Support Engineer (Student)
-
-### Education
-B.S. Computer Science, Arizona State University · Minor in Business · GPA 3.7
+### 📂 Projects
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**Inspark A11y Assistant**](https://github.com/ethicalzeus07/inspark-a11y) | Automates axe-core WCAG 2.2 AA scans with LLM remediation tips in <2s | FastAPI, axe-core, JS |
+| [**Ballsy Voice Assistant**](https://github.com/ethicalzeus07/ballsy-voice-assistant) | Real-time pipeline (Google STT → FastAPI → WebSockets) with ~1s latency; containerized | Python, WebSockets, SQLite, Docker |
+| [**Data Dash on EKS**](https://github.com/ethicalzeus07/datadash-eks) | Metrics dashboard with FastAPI + WebSocket on EKS Fargate, ALB, and CI/CD | Docker, EKS, ALB, GitHub Actions |
 
 ---
 
-### Stats
-<p>
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ethicalzeus07&show_icons=true"/>
-</p>
-<p>
-  <img alt="Streak" src="https://streak-stats.demolab.com?user=ethicalzeus07"/>
-</p>
-<p>
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethicalzeus07&layout=compact"/>
-</p>
+### 💼 Experience
+**ASU Center for Education Through Exploration**  
+*Platform QA & Support Engineer (Student)*  
 
-<p>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=ethicalzeus07&label=Profile%20views"/>
+---
+
+### 🎓 Education
+**Arizona State University**  
+B.S. Computer Science · Minor in Business · GPA: 3.7  
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ethicalzeus07&show_icons=true&theme=radical" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=ethicalzeus07&theme=radical" height="165"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethicalzeus07&layout=compact&theme=radical" height="130"/>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ethicalzeus07&label=Profile%20views&color=red"/>
 </p>
 
 ---
 
-### Contribution Snake
-![snake](https://raw.githubusercontent.com/ethicalzeus07/ethicalzeus07/output/snake.svg)
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ethicalzeus07/ethicalzeus07/output/snake.svg"/>
+</p>
