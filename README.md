@@ -7,8 +7,11 @@ Primary: #FFA500  |  Accent: #FF6F00  |  BG: #0D0D0D
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FF6F00,100:FFA500&text=Pravar%20Chauhan&fontColor=0D0D0D&fontSize=48&fontAlignY=38&animation=twinkling&desc=Python%20%E2%80%A2%20AI%20%E2%80%A2%20Cloud&descAlignY=60"/>
 </p>
 
-<!-- Banner / Title -->
-<h1 align="center">🔥 Hi, I'm Pravar Chauhan</h1>
+<!-- Custom Main Title -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=🔥+Pravar+Chauhan+🔥" alt="Pravar Chauhan"/>
+</h1>
+
 <h3 align="center">Python Engineer · AI & Cloud · FastAPI · Docker · Kubernetes · HCI Enthusiast</h3>
 
 <!-- Typing Animation -->
@@ -18,7 +21,7 @@ Primary: #FFA500  |  Accent: #FF6F00  |  BG: #0D0D0D
   </a>
 </p>
 
-<!-- Badges (Orange Edition) -->
+<!-- Badges -->
 <p align="center">
   <a href="mailto:chauhanpravar7@gmail.com"><img src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF6F00"/></a>
   <a href="https://www.linkedin.com/in/pravar-chauhan-83845930a/"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF6F00"/></a>
@@ -27,30 +30,30 @@ Primary: #FFA500  |  Accent: #FF6F00  |  BG: #0D0D0D
   <img src="https://komarev.com/ghpvc/?username=ethicalzeus07&style=for-the-badge&color=FFA500&label=Profile%20Views" alt="views"/>
 </p>
 
-<!-- Gradient Divider -->
+---
+
+## ⚡ Vibes
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:FF6F00,100:FFA500&section=header"/>
+  <img src="./cat.jpeg" alt="Pixel Cat" width="180"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./dragon.gif" alt="Super Saiyan Goku" width="200"/>
 </p>
+
+---
 
 ## ⚙️ Snapshot
 - ⚡ Built AI-powered accessibility assistant → 40% faster WCAG audits  
 - 🎙️ Real-time voice assistant with ~1s on-device latency  
 - ☁️ Deployed metrics dashboards on EKS Fargate with ALB + CI/CD  
 
-<!-- Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:FF6F00,100:FFA500&section=header"/>
-</p>
+---
 
 ## 🧰 Toolbox
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,docker,kubernetes,terraform,aws,sqlite,githubactions,pandas&theme=dark" />
 </p>
 
-<!-- Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:FF6F00,100:FFA500&section=header"/>
-</p>
+---
 
 ## 📂 Featured Projects
 
@@ -60,23 +63,19 @@ Primary: #FFA500  |  Accent: #FF6F00  |  BG: #0D0D0D
 | [**Ballsy Voice Assistant**](https://github.com/ethicalzeus07/ballsy-voice-assistant) | Real-time pipeline (Google STT → FastAPI → WebSockets) with ~1s latency; containerized | Python, WebSockets, SQLite, Docker |
 | [**Data Dash on EKS**](https://github.com/ethicalzeus07/datadash-eks) | Metrics dashboard with FastAPI + WebSocket on EKS Fargate, ALB, and CI/CD | Docker, EKS, ALB, GitHub Actions |
 
-<!-- Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:FF6F00,100:FFA500&section=header"/>
-</p>
+---
 
 ## 💼 Experience
 **ASU Center for Education Through Exploration**  
 *Platform QA & Support Engineer (Student)*  
 
+---
+
 ## 🎓 Education
 **Arizona State University**  
 B.S. Computer Science · Minor in Business · GPA: 3.7  
 
-<!-- Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:FF6F00,100:FFA500&section=header"/>
-</p>
+---
 
 ## 📊 Activity Graph
 <p align="center">
