@@ -49,7 +49,7 @@ Primary: #FFA500  |  Accent: #FF6F00  |  BG: #0D0D0D
 </p>
 
 <p align="center">
-  <img src="./dr.gif" alt="Pixel Cat mascot" width="500" style="border-radius:12px; box-shadow: 0 0 25px #FFA500;"/>
+  <img src="./d.gif" alt="Pixel Cat mascot" width="500" style="border-radius:12px; box-shadow: 0 0 25px #FFA500;"/>
 </p>
 
 ---
