@@ -88,10 +88,7 @@ B.S. Computer Science · Minor in Business · GPA: 3.7
   <img src="./scene.gif" alt="Pixel Sunset Scene" width="600" style="border-radius:12px; box-shadow: 0 0 25px #FF6F00;"/>
 </p>
 
-<!-- FOOTER WAVE -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:FFA500,100:FF6F00&section=footer"/>
-</p>
+
 
 
 ## 🐍 Contribution Snake
