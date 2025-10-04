@@ -32,25 +32,24 @@ Primary: #FFA500  |  Accent: #FF6F00  |  BG: #0D0D0D
 
 ---
 
-## ⚡ Vibes
-<p align="center">
-  <img src="./cat.jpeg" alt="Pixel Cat" width="180"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./dragon.gif" alt="Super Saiyan Goku" width="200"/>
-</p>
-
----
-
 ## ⚙️ Snapshot
 - ⚡ Built AI-powered accessibility assistant → 40% faster WCAG audits  
 - 🎙️ Real-time voice assistant with ~1s on-device latency  
 - ☁️ Deployed metrics dashboards on EKS Fargate with ALB + CI/CD  
+
+<p align="center">
+  <img src="./dragon.gif" alt="Super Saiyan Goku powering up" width="240" style="border-radius:12px; box-shadow: 0 0 20px #FF6F00;"/>
+</p>
 
 ---
 
 ## 🧰 Toolbox
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,docker,kubernetes,terraform,aws,sqlite,githubactions,pandas&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="./cat.jpeg" alt="Pixel Cat mascot" width="150" style="border-radius:12px; box-shadow: 0 0 25px #FFA500;"/>
 </p>
 
 ---
