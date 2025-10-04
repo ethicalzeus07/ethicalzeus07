@@ -48,8 +48,8 @@ Primary: #FFA500  |  Accent: #FF6F00  |  BG: #0D0D0D
   <img src="https://skillicons.dev/icons?i=python,fastapi,docker,kubernetes,terraform,aws,sqlite,githubactions,pandas&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="./d.gif" alt="Pixel Cat mascot" width="500" style="border-radius:12px; box-shadow: 0 0 25px #FFA500;"/>
+<p >
+  <img src="./d.gif" alt="Pixel Cat mascot" width="300" style="border-radius:12px; box-shadow: 0 0 25px #FFA500;"/>
 </p>
 
 ---
