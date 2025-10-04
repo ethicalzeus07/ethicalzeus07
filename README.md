@@ -44,10 +44,11 @@ Primary: #FFA500  |  Accent: #FF6F00  |  BG: #0D0D0D
 ---
 
 ## 🧰 Toolbox
-
 <p align="center">
-  
-  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,kubernetes,terraform,aws,sqlite,githubactions,pandas,git,linux,vscode,figma,tensorflow,pytorch,html,css,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,swift,sql,bash&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,regex,docker,kubernetes,terraform,git,githubactions,linux&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=aws,sqlite,pandas,numpy,postgresql,mysql&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=pytest,junit,jira&theme=dark" />
 </p>
 
 
