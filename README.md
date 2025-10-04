@@ -44,12 +44,32 @@ Primary: #FFA500  |  Accent: #FF6F00  |  BG: #0D0D0D
 ---
 
 ## 🧰 Toolbox
+
+<!-- Row labels -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,swift,sql,bash&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=fastapi,regex,docker,kubernetes,terraform,git,githubactions,linux&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=aws,sqlite,pandas,numpy,postgresql,mysql&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=pytest,junit,jira&theme=dark" />
+  <b>Languages</b> · <b>Backend & DevOps</b> · <b>Data & AI</b>
 </p>
+
+<!-- Row 1: Languages -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,swift,bash&theme=dark&perline=20" />
+</p>
+
+<!-- Row 2: Backend & DevOps -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,docker,kubernetes,terraform,git,githubactions,linux,aws&theme=dark&perline=20" />
+</p>
+
+<!-- Row 3: Data & AI -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sqlite,postgresql,mysql,pandas,numpy,huggingface,openai,vscode&theme=dark&perline=20" />
+</p>
+
+<!-- Centered mascot GIF with glow -->
+<p align="center">
+  <img src="./goku.gif" alt="Goku mascot" width="250" style="border-radius:12px; box-shadow:0 0 24px #FFA500;" />
+</p>
+
 
 
 
