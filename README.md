@@ -85,7 +85,7 @@ B.S. Computer Science · Minor in Business · GPA: 3.7
 </p>
 <!-- Scene GIF -->
 <p align="center">
-  <img src="./scene.gif" alt="Pixel Sunset Scene" width="600" style="border-radius:12px; box-shadow: 0 0 25px #FF6F00;"/>
+  <img src="./scene.gif" alt="Pixel Sunset Scene" width="900" style="border-radius:12px; box-shadow: 0 0 25px #FF6F00;"/>
 </p>
 
 
