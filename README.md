@@ -62,7 +62,7 @@ Primary: #FFA500  |  Accent: #FF6F00  |  BG: #0D0D0D
 
 <!-- Row 3: Data & AI -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sqlite,postgresql,mysql,pytorch,redis,sklearn,flask,vscode&theme=dark&perline=20" />
+  <img src="https://skillicons.dev/icons?i=sqlite,postgresql,mysql,pytorch,redis,sklearn,flask&theme=dark&perline=20" />
 </p>
 
 <!-- Centered mascot GIF with glow -->
