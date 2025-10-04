@@ -57,20 +57,17 @@ B.S. Computer Science · Minor in Business · GPA: 3.7
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api ?username=ethicalzeus07 &include_all_commits=true &count_private=true &show_icons=true &theme=tokyonight &cache_seconds=1800 &v=3" />
-  <img src="https://streak-stats.demolab.com?user=ethicalzeus07&hide_longest_streak=false&date_format=%5By%5D-m-d&cache_seconds=1800&v=2" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com ?user=ethicalzeus07 &include_all_commits=true &theme=tokyonight &date_format=%5By%5D-%5Bm%5D-%5Bd%5D &cache_seconds=1800 &v=3" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ethicalzeus07&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&cache_seconds=1800&v=4" />
+  <img src="https://streak-stats.demolab.com?user=ethicalzeus07&include_all_commits=true&theme=tokyonight&date_format=%5By%5D-%5Bm%5D-%5Bd%5D&cache_seconds=1800&v=4" />
 </p>
 
 ---
 
 ## 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ethicalzeus07&theme=react-dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ethicalzeus07&theme=react-dark&hide_border=true&v=4" />
 </p>
+
 
 ---
 
