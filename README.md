@@ -51,9 +51,7 @@ Primary: #FFA500  |  Accent: #FF6F00  |  BG: #0D0D0D
 </p>
 
 
-<p align="center">
-  <img src="./goku.gif" alt="Goku powering up" width="250" style="border-radius:12px; box-shadow: 0 0 25px #FFA500;"/>
-</p>
+
 
 
 ---
