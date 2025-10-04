@@ -83,17 +83,15 @@ B.S. Computer Science · Minor in Business · GPA: 3.7
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ethicalzeus07&theme=high-contrast&hide_border=true&area=true&bg_color=0D0D0D&title_color=FFA500&color=FF6F00&line=FFA500&point=FF6F00" />
 </p>
-<!-- Scene GIF -->
-<p align="center">
-  <img src="./scene.gif" alt="Pixel Sunset Scene" width="700" style="border-radius:12px; box-shadow: 0 0 25px #FF6F00;"/>
-</p>
-
-
-
 
 ## 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/ethicalzeus07/ethicalzeus07/output/snake.svg"/>
+</p>
+
+<!-- Scene GIF -->
+<p align="center">
+  <img src="./scene.gif" alt="Pixel Sunset Scene" width="700" style="border-radius:12px; box-shadow: 0 0 25px #FF6F00;"/>
 </p>
 
 <!-- FOOTER WAVE -->
