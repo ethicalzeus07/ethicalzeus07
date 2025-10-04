@@ -57,18 +57,8 @@ B.S. Computer Science · Minor in Business · GPA: 3.7
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api
-?username=ethicalzeus07
-&count_private=true
-&include_all_commits=true
-&cache_seconds=1800
-&v=2" />
-  <img src="https://streak-stats.demolab.com
-?user=ethicalzeus07
-&hide_longest_streak=false
-&date_format=%5By%5D-m-d
-&cache_seconds=1800
-&v=2" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ethicalzeus07&count_private=true&include_all_commits=true&cache_seconds=1800&v=2" />
+  <img src="https://streak-stats.demolab.com?user=ethicalzeus07&hide_longest_streak=false&date_format=%5By%5D-m-d&cache_seconds=1800&v=2" />
 </p>
 
 <p align="center">
