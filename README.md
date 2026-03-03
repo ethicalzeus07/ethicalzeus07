@@ -116,12 +116,6 @@ Primary: #FFA500  |  Accent: #FF6F00  |  BG: #0D0D0D
 
 ---
 
-## 📈 GitHub at a glance
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ethicalzeus07&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFA500&text_color=FFFFFF&icon_color=FF6F00" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ethicalzeus07&hide_border=true&background=0D0D0D&ring=FFA500&fire=FF6F00&currStreakLabel=FFA500&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" height="160"/>
-</p>
-
 ## 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/ethicalzeus07/ethicalzeus07/output/snake.svg"/>
