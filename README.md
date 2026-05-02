@@ -21,7 +21,7 @@ Primary: #FFA500  |  Accent: #FF6F00  |  BG: #0D0D0D
   <a href="mailto:chauhanpravar7@gmail.com"><img src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF6F00"/></a>
   <a href="https://www.linkedin.com/in/pravar-chauhan-83845930a/"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF6F00"/></a>
   <a href="https://github.com/ethicalzeus07"><img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=white&labelColor=FF6F00"/></a>
-  <a href="https://d3tx6hx7gzmh0g.cloudfront.net/"><img src="https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=vercel&logoColor=white&labelColor=FF6F00"/></a>
+  <a href="https://pravarchauhan.com/"><img src="https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=vercel&logoColor=white&labelColor=FF6F00"/></a>
   <img src="https://komarev.com/ghpvc/?username=ethicalzeus07&style=for-the-badge&color=FFA500&label=Profile%20Views" alt="views"/>
 </p>
 
