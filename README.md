@@ -126,7 +126,7 @@ Primary: #FFA500  |  Accent: #FF6F00  |  BG: #0D0D0D
 ## 🤝 Connect
 - Email: **chauhanpravar7@gmail.com**
 - LinkedIn: **pravar-chauhan-83845930a**
-- Portfolio: **d3tx6hx7gzmh0g.cloudfront.net**
+- Portfolio: **https://pravarchauhan.com/**
 
 <!-- FOOTER WAVE -->
 <p align="center">
