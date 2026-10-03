@@ -1,18 +1,18 @@
 <!-- ========================= THEME =========================
-Primary: #FFA500  |  Accent: #FF6F00  |  BG: #0D0D0D
+Primary: #FFA500 (orange)  |  Accent: #FF6F00  |  NYU Violet: #57068C  |  BG: #0D0D0D
 =========================================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:FF6F00,100:FFA500&text=Pravar%20Chauhan&fontColor=0D0D0D&fontSize=48&fontAlignY=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:57068C,50:8900E1,100:FFA500&text=Pravar%20Chauhan&fontColor=FFFFFF&fontSize=48&fontAlignY=40"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FFA500&center=true&vCenter=true&width=700&height=60&lines=MS+CS+%40+New+York+University;Agents%2C+RAG+and+cloud+backends;AI+systems+people+actually+use" alt="headline"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=8900E1&center=true&vCenter=true&width=700&height=60&lines=MS+CS+%40+New+York+University;Agents%2C+RAG+and+cloud+backends;AI+systems+people+actually+use" alt="headline"/>
 </p>
 
 <p align="center">
-  <a href="mailto:pc3188@nyu.edu"><img src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF6F00"/></a>
-  <a href="https://www.linkedin.com/in/pravar-chauhan-83845930a/"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF6F00"/></a>
+  <a href="mailto:pc3188@nyu.edu"><img src="https://img.shields.io/badge/NYU%20Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=white&labelColor=57068C"/></a>
+  <a href="https://www.linkedin.com/in/pravar-chauhan-83845930a/"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=57068C"/></a>
   <a href="https://pravarchauhan.com/"><img src="https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=vercel&logoColor=white&labelColor=FF6F00"/></a>
 </p>
 
@@ -107,10 +107,10 @@ Resolved about 50 requests a week (1,000+ total) against sub-4-hour SLAs. Ran re
 
 ## 🎓 Education
 
-**New York University** — M.S. Computer Science · *Sep 2026 – May 2028* · Merit Scholarship
+<img src="https://img.shields.io/badge/New%20York%20University-57068C?style=flat-square&logoColor=white"/> **M.S. Computer Science** · *Sep 2026 – May 2028* · Merit Scholarship
 Coursework: Responsible AI, Clinical Computer Security, Algorithms
 
-**Arizona State University** — B.S. Computer Science, Minor in Business · *May 2026*
+<img src="https://img.shields.io/badge/Arizona%20State%20University-8C1D40?style=flat-square&logoColor=white"/> **B.S. Computer Science**, Minor in Business · *May 2026*
 GPA 3.90/4.0 · Summa Cum Laude · 6x Dean's List
 
 ---
@@ -118,8 +118,8 @@ GPA 3.90/4.0 · Summa Cum Laude · 6x Dean's List
 ## 📊 Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ethicalzeus07&show_icons=true&hide_border=true&title_color=FFA500&icon_color=FF6F00&text_color=c9d1d9&bg_color=0D0D0D"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethicalzeus07&layout=compact&hide_border=true&title_color=FFA500&text_color=c9d1d9&bg_color=0D0D0D"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ethicalzeus07&show_icons=true&hide_border=true&title_color=C06BFF&icon_color=FFA500&text_color=c9d1d9&bg_color=0D0D0D"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethicalzeus07&layout=compact&hide_border=true&title_color=C06BFF&text_color=c9d1d9&bg_color=0D0D0D"/>
 </p>
 
 <p align="center">
@@ -130,10 +130,12 @@ GPA 3.90/4.0 · Summa Cum Laude · 6x Dean's List
 
 ## 🤝 Connect
 
-Open to **Summer 2027 internships** in AI engineering, forward deployed engineering, and full-stack roles.
+<img src="https://img.shields.io/badge/Open%20to-Summer%202027%20Internships-57068C?style=for-the-badge"/>
+
+Looking for AI engineering, forward deployed engineering, and full-stack roles.
 
 **Email** pc3188@nyu.edu · **Portfolio** [pravarchauhan.com](https://pravarchauhan.com/) · **LinkedIn** [pravar-chauhan](https://www.linkedin.com/in/pravar-chauhan-83845930a/)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:FFA500,100:FF6F00&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:FFA500,50:8900E1,100:57068C&section=footer"/>
 </p>
