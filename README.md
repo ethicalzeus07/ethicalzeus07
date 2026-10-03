@@ -3,18 +3,17 @@ Primary: #FFA500  |  Accent: #FF6F00  |  BG: #0D0D0D
 =========================================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FF6F00,100:FFA500&text=Pravar%20Chauhan&fontColor=0D0D0D&fontSize=52&fontAlignY=38&animation=twinkling&desc=AI%20Engineering%20%E2%80%A2%20Agents%20%26%20RAG%20%E2%80%A2%20Cloud%20Backends&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:FF6F00,100:FFA500&text=Pravar%20Chauhan&fontColor=0D0D0D&fontSize=48&fontAlignY=40"/>
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFA500&center=true&vCenter=true&width=820&lines=MS+CS+%40+New+York+University;AI+engineer+%7C+agents%2C+RAG%2C+cloud+backends;I+build+AI+systems+people+actually+use" alt="headline"/>
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FFA500&center=true&vCenter=true&width=700&height=60&lines=MS+CS+%40+New+York+University;Agents%2C+RAG+and+cloud+backends;AI+systems+people+actually+use" alt="headline"/>
+</p>
 
 <p align="center">
   <a href="mailto:pc3188@nyu.edu"><img src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF6F00"/></a>
   <a href="https://www.linkedin.com/in/pravar-chauhan-83845930a/"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF6F00"/></a>
   <a href="https://pravarchauhan.com/"><img src="https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=vercel&logoColor=white&labelColor=FF6F00"/></a>
-  <img src="https://komarev.com/ghpvc/?username=ethicalzeus07&style=for-the-badge&color=FFA500&label=Profile%20Views"/>
 </p>
 
 <p align="center">
